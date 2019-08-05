@@ -1,0 +1,826 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<source>
+	<publisher-name>Appcast</publisher-name>
+	<publisher-url>http://www.appcast.io</publisher-url>
+	<last-build-date>2019-07-12 08:50:47 -0400</last-build-date>
+	<job>
+		<!-- basic info -->
+		<title><![CDATA[Senior Data Engineer]]></title>
+		<date><![CDATA[2019-07-05]]></date>
+		<id><![CDATA[6052_REF11880Z]]></id>
+		<photo_url><![CDATA[https://clickcast2-static.s3.amazonaws.com/uploads/employer/logo/6052/bosch-logo.jpg]]></photo_url>
+		<description><![CDATA[Company Description
+
+			The Bosch Center for Artificial Intelligence provides services in AI technologies to Bosch’s business units and plants. Artificial intelligence technologies are impacting Bosch’s products and services in many domains: manufacturing, predictive maintenance, vehicle diagnostics, supply chain, large-scale simulations, etc. This is a technical position for someone who is skilled at bringing together disparate technologies to solve business problems.
+
+			Our team is responsible for streaming Bosch data to centralized analytics platforms and building data-based services for a wide variety of Bosch engineering and research teams&lt;/p&gt;&lt;p&gt;We are looking for a talented engineer who is passionate about building fault-tolerant data services and analytics tools. Your work will be used by hundreds of Bosch engineers and have global impact by improving the quality and value of Bosch products.
+
+			Job Description
+
+			Primary Responsibilities:
+			- Design and implement fault-tolerant data pipelines to integrate large amounts of data from many diverse storage systems.
+			- Promote a culture of self-serve data analytics by minimizing technical barriers to data access and understanding.
+			- Execute complex data engineering projects that have a significant impact on Bosch global business.
+			- Share knowledge by clearly articulating results and ideas to customers, managers, and key decision makers.
+			- Stay current with the latest research and technology and communicate your knowledge throughout the enterprise
+			- Take responsibility for preparing data for analysis and provide critical feedback on issues of data integrity
+			- Up to 10% travel may be required.
+
+			Basic Qualifications:
+			- MS in Computer Science
+			- 3+ years industry experience building and operating distributed data systems in production
+			- 3+ years of programming experience in Scala or Java
+
+			Preferred Qualifications:
+			- Proficient in tuning and performance optimization of Apache Spark jobs
+			- Experience with integration of data from multiple data sources
+			- Experience with various messaging systems, such as Kafka or Rabbit
+			- Experience managing and solving ongoing issues with a Spark/Hadoop cluster
+			- Familiarity with distributed machine learning frameworks like Spark MLlib
+			- Familiarity of machine learning / deep learning methods
+
+			Additional Information
+
+			BOSCH is a proud supporter of STEM (Science, Technology, Engineering & Mathematics) Initiatives
+			· FIRST Robotics (For Inspiration and Recognition of Science and Technology)
+			· AWIM (A World In Motion)
+			By choice, we are committed to a diverse workforce – EOE/Protected Veteran/Disabled.]]></description>
+		<!-- company info -->
+		<company-name><![CDATA[Bosch Group]]></company-name>
+		<company-id><![CDATA[6052]]></company-id>
+		<company-full-address><![CDATA[Sunnyvale, CA, United States, 90487]]></company-full-address>
+		<company-url><![CDATA[https://www.bosch.com/]]></company-url>
+		<!-- location -->
+		<city><![CDATA[Sunnyvale]]></city>
+		<region><![CDATA[CA]]></region>
+		<country><![CDATA[US]]></country>
+		<postal-code><![CDATA[94087]]></postal-code>
+		<!-- integration configuration -->
+		<facebook-apply-data>
+			<application-callback-url><![CDATA[https://click.appcast.io/track/sf8ir1?cs=gqv&amp;exch=3a&amp;bid=TEz0xVerpiuhxLt0LS4mUA==]]></application-callback-url>
+		</facebook-apply-data>
+	</job>
+	<job>
+		<!-- basic info -->
+		<title><![CDATA[Technical Project Leader (Mechatronics)]]></title>
+		<date><![CDATA[2019-07-09]]></date>
+		<id><![CDATA[6052_REF9645E]]></id>
+		<photo_url><![CDATA[https://clickcast2-static.s3.amazonaws.com/uploads/employer/logo/6052/bosch-logo.jpg]]></photo_url>
+		<description><![CDATA[Company Description
+
+			As one of the world's leading automotive steering suppliers, Robert Bosch Automotive Steering LLC is growing in the market and must continue to innovate and develop new steering products to meet customer needs. Our engineering, technical purchasing, and sales teams are located in our Plymouth, MI office fully supporting regional customers and providing local support for global projects. The production facilities in Florence, KY and Queretaro, MX manufacture and distribute products for the NAFTA region.
+
+			Indefinite U.S. work autorized individuals only. Future visa sponsorship for work autorization not available.
+
+			Job Description
+
+			Robert Bosch Automotive Steering LLC is looking for a Technical Project Leader at our Plymouth, MI location. This position includes technical project management responsibilities of electric power steering (EPS) system. The ideal candidate would be highly self-motivated and have the willingness to dive right in to the exciting mechatronic world of EPS. You will work directly with a comprehensive development team including mechanical design engineers, software developers, application / calibration engineers and fellow project managers to develop project specific solutions for driver assistance and/or automated driving technologies.
+
+			Below is a highlight of the things you would being working on:
+			- The Technical Project Leader (TPL) acts as the system architect and technical counterpart to the Program Manager and is responsible for making sure the technical team understands and fulfills the customer’s electric power steering (EPS) requirements on time.
+			- This role will lead a project from start to finish and will be responsible to coordinate and plan a local and global multi-disciplined engineering team of engineers to achieve that goal.
+			- Responsible for evaluating customer specifications including support of translating the system requirements into Rational DOORS, evaluating requirement and test coverage, and support of issue tracking (Problem Job Management).
+			- Collaborate with software and function development on advanced Driver Assistance technologies such as Autonomous Driving, Lane Keeping, Automatic Parking, and more.
+			- Establish, cultivate and maintain a positive customer relationship as technical first point of contact and engineering lead for customer project(s).
+			- Ensure system development, validation, and delivery are according to guidelines and processes (e.g. ISO26262, ASPICE, IATF 16949).
+			- Monitor, track, and drive to completion the technical list of open points.
+			- Budget planning and reporting for project engineering, development and testing costs.
+			- Create the System-FMEA and ensure the implementation throughout the project
+			- Assist in the creation of technical safety concept
+			- Regular reporting of project status (technical, budgetary, etc) to management in US and Germany.
+			- Support all continuous improvement and cost reduction efforts.
+			- Work with the Sales department in acquisition support for development efforts and technical descriptions.
+			- Travel (up to 20%, domestic & international) to customer sites, Bosch sites, and supplier sites is required
+
+			Qualifications
+
+			Required Qualifications:
+			- 5+ years experience in automotive product development within Mechatronics
+			- Bachelor of Science in Engineering or related technical field
+
+			Preferred Qualifications:
+			- Masters of Science in Engineering or related technical field
+			- Capable to work independently in an organized and structured fashion with strong analytical skills that supports a systematic approach to problem resolution and strong communication skills to discuss issues/challenges with global development teams and external customers.
+			- Knowledge of driver assistance technologies and functions, high interest to work on exciting new driver assistance technologies.
+			- Experience with vehicle and system test and release procedures in automotive or related industry. - Experience in systems / requirements engineering.
+			- Ability to structure, moderate and promote collaboration with international teams, negotiate with customer, support global organization, and understanding with working in global multicultural projects.
+			- Hands on experience with Agile development methods (SCRUM, Kanban, Lean, etc.)
+			- Thorough and hands on understanding in the product development lifecycle
+			- Good written / verbal communication and presentation skills to discuss issues / solutions with team and external customer.
+			- Experience with a safety critical product preferred (ISO 26262)
+
+			Additional Information
+
+			BOSCH is a proud supporter of STEM (Science, Technology, Engineering & Mathematics) Initiatives
+			· FIRST Robotics (For Inspiration and Recognition of Science and Technology)
+			· AWIM (A World In Motion)
+			By choice, we are committed to a diverse workforce – EOE/Protected Veteran/Disabled.]]></description>
+		<!-- company info -->
+		<company-name><![CDATA[Bosch Group]]></company-name>
+		<company-id><![CDATA[6052]]></company-id>
+		<company-full-address><![CDATA[Sunnyvale, CA, United States, 90487]]></company-full-address>
+		<company-url><![CDATA[https://www.bosch.com/]]></company-url>
+		<!-- location -->
+		<city><![CDATA[Sunnyvale]]></city>
+		<region><![CDATA[CA]]></region>
+		<country><![CDATA[US]]></country>
+		<postal-code><![CDATA[94087]]></postal-code>
+		<!-- integration configuration -->
+		<facebook-apply-data>
+			<application-callback-url><![CDATA[https://click.appcast.io/track/sf8fp2?cs=gqv&exch=3a&bid=TEz0xVerpiuhxLt0LS4mUA==]]></application-callback-url>
+		</facebook-apply-data>
+	</job>
+	<job>
+		<!-- basic info -->
+		<title><![CDATA[Autonomous Driving – Senior Planning Researcher]]></title>
+		<date><![CDATA[2019-07-06]]></date>
+		<id><![CDATA[6052_REF12186J]]></id>
+		<photo_url><![CDATA[https://clickcast2-static.s3.amazonaws.com/uploads/employer/logo/6052/bosch-logo.jpg]]></photo_url>
+		<description><![CDATA[Company Description
+
+			“Invented for Life” drives us at Bosch and our vision of future mobility. Autonomous vehicles will change the way we move. Bosch and Mercedes have partnered together to make this future a reality!
+
+			We are a growing team disrupting the Autonomous Driving revolution by solving some of the most challenging robotics and artificial intelligence problems. We are looking for visionaries in autonomous navigation systems with expertise in software development.
+
+			Job Description
+
+			Research, develop, implement and evaluate algorithms in one or more of the following fields:
+			- Planning under uncertainty, probabilistic approaches in robotics, and novel ways for risk-aware intelligent decision making in uncertain environments
+			- Machine learning techniques for novel autonomous driving applications including traffic prediction and planning
+			- Kinodynamic motion planning
+
+			Qualifications
+
+			Basic Qualifications:
+			- Ph.D. in robotics, computer science, or engineering
+			- 3+ years of professional experience with software development for robotic systems
+
+			Preferred Qualifications:
+			- Expertise in developing, understanding and implementing complex algorithms efficiently and correctly
+			- Excellent C++ programming skills
+			- Excellent knowledge and proven expertise in at least one of the following fields: planning under uncertainty, traffic prediction, motion planning, machine learning
+			- Proven system integration and software architecture skills
+			- Excellent communication skills
+
+			Additional Information
+
+			BOSCH is a proud supporter of STEM (Science, Technology, Engineering & Mathematics) Initiatives
+			· FIRST Robotics (For Inspiration and Recognition of Science and Technology)
+			· AWIM (A World In Motion)
+			By choice, we are committed to a diverse workforce – EOE/Protected Veteran/Disabled.]]></description>
+		<!-- company info -->
+		<company-name><![CDATA[Bosch Group]]></company-name>
+		<company-id><![CDATA[6052]]></company-id>
+		<company-full-address><![CDATA[Sunnyvale, CA, United States, 90487]]></company-full-address>
+		<company-url><![CDATA[https://www.bosch.com/]]></company-url>
+		<!-- location -->
+		<city><![CDATA[Sunnyvale]]></city>
+		<region><![CDATA[CA]]></region>
+		<country><![CDATA[US]]></country>
+		<postal-code><![CDATA[94087]]></postal-code>
+		<!-- integration configuration -->
+		<facebook-apply-data>
+			<application-callback-url><![CDATA[https://click.appcast.io/track/sf8gw2?cs=gqv&exch=3a&bid=TEz0xVerpiuhxLt0LS4mUA==]]></application-callback-url>
+		</facebook-apply-data>
+	</job>
+	<job>
+		<!-- basic info -->
+		<title><![CDATA[Delivery Drivers Needed in Your Area. Amazon Flex]]></title>
+		<date><![CDATA[2019-07-09]]></date>
+		<id><![CDATA[5194_10087-3760a0eba2b2e2d29f97064b53c77bfb]]></id>
+		<description><![CDATA[Amazon Flex is expanding!
+
+			Earn $18-25/hr delivering packages with Amazon. All you need is a car, an iPhone or Android smartphone, and some free time.
+			This is a great opportunity to be your own boss: deliver when you want and make some extra cash.
+
+			Why Amazon Flex?
+			- Flexible hours: Schedule ahead or pick up any available delivery block of time (Extra blocks available during the weekends and evenings)
+			- Great pay: Make $18-25/hr
+			- Available work: Delivery opportunities available 7 days a week
+
+			To get started:
+			- You must be 21 years old
+			- Have a car and a valid driver's license
+			- Have an iPhone or Android smartphone
+
+			Apply Now!]]></description>
+		<!-- company info -->
+		<company-name><![CDATA[Amazon Flex]]></company-name>
+		<company-id><![CDATA[5194]]></company-id>
+		<company-full-address><![CDATA[Dayton, OH, United States]]></company-full-address>
+		<company-url><![CDATA[https://flex.amazon.com/]]></company-url>
+		<!-- location -->
+		<city><![CDATA[Dayton]]></city>
+		<region><![CDATA[OH]]></region>
+		<country><![CDATA[US]]></country>
+		<!-- integration configuration -->
+		<facebook-apply-data>
+			<application-callback-url><![CDATA[https://click.appcast.io/track/1ycd2cb?cs=gqv&exch=5t&bid=TEz0xVerpiuhxLt0LS4mUA==]]></application-callback-url>
+		</facebook-apply-data>
+	</job>
+	<job>
+		<!-- basic info -->
+		<title><![CDATA[Have a Car? Want Flexible Hrs? Amazon Flex]]></title>
+		<date><![CDATA[2019-07-09]]></date>
+		<id><![CDATA[5194_10087-98762c1037f44eced71c74013451465e]]></id>
+		<description><![CDATA[Amazon Flex is expanding!
+
+			Earn $18-25/hr delivering packages with Amazon. All you need is a car, an iPhone or Android smartphone, and some free time.
+			This is a great opportunity to be your own boss: deliver when you want and make some extra cash.
+
+			Why Amazon Flex?
+			- Flexible hours: Schedule ahead or pick up any available delivery block of time (Extra blocks available during the weekends and evenings)
+			- Great pay: Make $18-25/hr
+			- Available work: Delivery opportunities available 7 days a week
+
+			To get started:
+			- You must be 21 years old
+			- Have a car and a valid driver's license
+			- Have an iPhone or Android smartphone
+
+			Apply Now!]]></description>
+		<!-- company info -->
+		<company-name><![CDATA[Amazon Flex]]></company-name>
+		<company-id><![CDATA[5194]]></company-id>
+		<company-full-address><![CDATA[Dayton, OH, United States]]></company-full-address>
+		<company-url><![CDATA[https://flex.amazon.com/]]></company-url>
+		<!-- location -->
+		<city><![CDATA[Dayton]]></city>
+		<region><![CDATA[OH]]></region>
+		<country><![CDATA[US]]></country>
+		<!-- integration configuration -->
+		<facebook-apply-data>
+			<application-callback-url><![CDATA[https://click.appcast.io/track/1ycd2ca?cs=gqv&exch=5t&bid=TEz0xVerpiuhxLt0LS4mUA==]]></application-callback-url>
+		</facebook-apply-data>
+	</job>
+	<job>
+		<!-- basic info -->
+		<title><![CDATA[Make $18-25/hr with Amazon Flex]]></title>
+		<date><![CDATA[2019-07-09]]></date>
+		<id><![CDATA[5194_10087-2aada9950a72c6eb82437dc6ed7c0966]]></id>
+		<description><![CDATA[Amazon Flex is expanding!
+
+			Earn $18-25/hr delivering packages with Amazon. All you need is a car, an iPhone or Android smartphone, and some free time.
+			This is a great opportunity to be your own boss: deliver when you want and make some extra cash.
+
+			Why Amazon Flex?
+			- Flexible hours: Schedule ahead or pick up any available delivery block of time (Extra blocks available during the weekends and evenings)
+			- Great pay: Make $18-25/hr
+			- Available work: Delivery opportunities available 7 days a week
+
+			To get started:
+			- You must be 21 years old
+			- Have a car and a valid driver's license
+			- Have an iPhone or Android smartphone
+
+			Apply Now!]]></description>
+		<!-- company info -->
+		<company-name><![CDATA[Amazon Flex]]></company-name>
+		<company-id><![CDATA[5194]]></company-id>
+		<company-full-address><![CDATA[Dayton, OH, United States]]></company-full-address>
+		<company-url><![CDATA[https://flex.amazon.com/]]></company-url>
+		<!-- location -->
+		<city><![CDATA[Dayton]]></city>
+		<region><![CDATA[OH]]></region>
+		<country><![CDATA[US]]></country>
+		<!-- integration configuration -->
+		<facebook-apply-data>
+			<application-callback-url><![CDATA[https://click.appcast.io/track/1ycd2c9?cs=gqv&exch=5t&bid=TEz0xVerpiuhxLt0LS4mUA==]]></application-callback-url>
+		</facebook-apply-data>
+	</job>
+	<job>
+		<!-- basic info -->
+		<title><![CDATA[Have a Car? Want Flexible Hrs? Amazon Flex]]></title>
+		<date><![CDATA[2019-07-07]]></date>
+		<id><![CDATA[5194_10362-98762c1037f44eced71c74013451465e]]></id>
+		<description><![CDATA[Amazon Flex is expanding!
+
+			Earn $18-25/hr delivering packages with Amazon. All you need is a car, an iPhone or Android smartphone, and some free time.
+			This is a great opportunity to be your own boss: deliver when you want and make some extra cash.
+
+			Why Amazon Flex?
+			- Flexible hours: Schedule ahead or pick up any available delivery block of time (Extra blocks available during the weekends and evenings)
+			- Great pay: Make $18-25/hr
+			- Available work: Delivery opportunities available 7 days a week
+
+			To get started:
+			- You must be 21 years old
+			- Have a car and a valid driver's license
+			- Have an iPhone or Android smartphone
+
+			Apply Now!]]></description>
+		<!-- company info -->
+		<company-name><![CDATA[Amazon Flex]]></company-name>
+		<company-id><![CDATA[5194]]></company-id>
+		<company-full-address><![CDATA[Portland, ME, United States]]></company-full-address>
+		<company-url><![CDATA[https://flex.amazon.com/]]></company-url>
+		<!-- location -->
+		<city><![CDATA[Portland]]></city>
+		<region><![CDATA[ME]]></region>
+		<country><![CDATA[US]]></country>
+		<!-- integration configuration -->
+		<facebook-apply-data>
+			<application-callback-url><![CDATA[https://click.appcast.io/track/223v775?cs=gqv&exch=5t&bid=TEz0xVerpiuhxLt0LS4mUA==]]></application-callback-url>
+		</facebook-apply-data>
+	</job>
+	<job>
+		<!-- basic info -->
+		<title><![CDATA[Delivery Drivers Needed in Your Area. Amazon Flex]]></title>
+		<date><![CDATA[2019-07-07]]></date>
+		<id><![CDATA[5194_10362-3760a0eba2b2e2d29f97064b53c77bfb]]></id>
+		<description><![CDATA[Amazon Flex is expanding!
+
+			Earn $18-25/hr delivering packages with Amazon. All you need is a car, an iPhone or Android smartphone, and some free time.
+			This is a great opportunity to be your own boss: deliver when you want and make some extra cash.
+
+			Why Amazon Flex?
+			- Flexible hours: Schedule ahead or pick up any available delivery block of time (Extra blocks available during the weekends and evenings)
+			- Great pay: Make $18-25/hr
+			- Available work: Delivery opportunities available 7 days a week
+
+			To get started:
+			- You must be 21 years old
+			- Have a car and a valid driver's license
+			- Have an iPhone or Android smartphone
+
+			Apply Now!]]></description>
+		<!-- company info -->
+		<company-name><![CDATA[Amazon Flex]]></company-name>
+		<company-id><![CDATA[5194]]></company-id>
+		<company-full-address><![CDATA[Portland, ME, United States]]></company-full-address>
+		<company-url><![CDATA[https://flex.amazon.com/]]></company-url>
+		<!-- location -->
+		<city><![CDATA[Portland]]></city>
+		<region><![CDATA[ME]]></region>
+		<country><![CDATA[US]]></country>
+		<!-- integration configuration -->
+		<facebook-apply-data>
+			<application-callback-url><![CDATA[https://click.appcast.io/track/223v774?cs=gqv&exch=5t&bid=TEz0xVerpiuhxLt0LS4mUA==]]></application-callback-url>
+		</facebook-apply-data>
+	</job>
+	<job>
+		<!-- basic info -->
+		<title><![CDATA[Make $18-25/hr with Amazon Flex]]></title>
+		<date><![CDATA[2019-07-07]]></date>
+		<id><![CDATA[5194_10362-2aada9950a72c6eb82437dc6ed7c0966]]></id>
+		<description><![CDATA[Amazon Flex is expanding!
+
+			Earn $18-25/hr delivering packages with Amazon. All you need is a car, an iPhone or Android smartphone, and some free time.
+			This is a great opportunity to be your own boss: deliver when you want and make some extra cash.
+
+			Why Amazon Flex?
+			- Flexible hours: Schedule ahead or pick up any available delivery block of time (Extra blocks available during the weekends and evenings)
+			- Great pay: Make $18-25/hr
+			- Available work: Delivery opportunities available 7 days a week
+
+			To get started:
+			- You must be 21 years old
+			- Have a car and a valid driver's license
+			- Have an iPhone or Android smartphone
+
+			Apply Now!]]></description>
+		<!-- company info -->
+		<company-name><![CDATA[Amazon Flex]]></company-name>
+		<company-id><![CDATA[5194]]></company-id>
+		<company-full-address><![CDATA[Portland, ME, United States]]></company-full-address>
+		<company-url><![CDATA[https://flex.amazon.com/]]></company-url>
+		<!-- location -->
+		<city><![CDATA[Portland]]></city>
+		<region><![CDATA[ME]]></region>
+		<country><![CDATA[US]]></country>
+		<!-- integration configuration -->
+		<facebook-apply-data>
+			<application-callback-url><![CDATA[https://click.appcast.io/track/224djq0?cs=gqv&exch=5t&bid=TEz0xVerpiuhxLt0LS4mUA==]]></application-callback-url>
+		</facebook-apply-data>
+	</job>
+	<job>
+		<!-- basic info -->
+		<title><![CDATA[Have a Car? Want Flexible Hrs? Amazon Flex]]></title>
+		<date><![CDATA[2019-07-09]]></date>
+		<id><![CDATA[5194_100363-98762c1037f44eced71c74013451465e]]></id>
+		<description><![CDATA[Amazon Flex is expanding!
+
+			Earn $18-25/hr delivering packages with Amazon. All you need is a car, an iPhone or Android smartphone, and some free time.
+			This is a great opportunity to be your own boss: deliver when you want and make some extra cash.
+
+			Why Amazon Flex?
+			- Flexible hours: Schedule ahead or pick up any available delivery block of time (Extra blocks available during the weekends and evenings)
+			- Great pay: Make $18-25/hr
+			- Available work: Delivery opportunities available 7 days a week
+
+			To get started:
+			- You must be 21 years old
+			- Have a car and a valid driver's license
+			- Have an iPhone or Android smartphone
+
+			Apply Now!]]></description>
+		<!-- company info -->
+		<company-name><![CDATA[Amazon Flex]]></company-name>
+		<company-id><![CDATA[5194]]></company-id>
+		<company-full-address><![CDATA[Elizabethtown, PA, United States]]></company-full-address>
+		<company-url><![CDATA[https://flex.amazon.com/]]></company-url>
+		<!-- location -->
+		<city><![CDATA[Elizabethtown]]></city>
+		<region><![CDATA[PA]]></region>
+		<country><![CDATA[US]]></country>
+		<!-- integration configuration -->
+		<facebook-apply-data>
+			<application-callback-url><![CDATA[https://click.appcast.io/track/22uggem?cs=gqv&exch=5t&bid=TEz0xVerpiuhxLt0LS4mUA==]]></application-callback-url>
+		</facebook-apply-data>
+	</job>
+	<job>
+		<!-- basic info -->
+		<title><![CDATA[Delivery Drivers Needed in Your Area. Amazon Flex]]></title>
+		<date><![CDATA[2019-07-09]]></date>
+		<id><![CDATA[5194_100363-3760a0eba2b2e2d29f97064b53c77bfb]]></id>
+		<description><![CDATA[Amazon Flex is expanding!
+
+			Earn $18-25/hr delivering packages with Amazon. All you need is a car, an iPhone or Android smartphone, and some free time.
+			This is a great opportunity to be your own boss: deliver when you want and make some extra cash.
+
+			Why Amazon Flex?
+			- Flexible hours: Schedule ahead or pick up any available delivery block of time (Extra blocks available during the weekends and evenings)
+			- Great pay: Make $18-25/hr
+			- Available work: Delivery opportunities available 7 days a week
+
+			To get started:
+			- You must be 21 years old
+			- Have a car and a valid driver's license
+			- Have an iPhone or Android smartphone
+
+			Apply Now!]]></description>
+		<!-- company info -->
+		<company-name><![CDATA[Amazon Flex]]></company-name>
+		<company-id><![CDATA[5194]]></company-id>
+		<company-full-address><![CDATA[Elizabethtown, PA, United States]]></company-full-address>
+		<company-url><![CDATA[https://flex.amazon.com/]]></company-url>
+		<!-- location -->
+		<city><![CDATA[Elizabethtown]]></city>
+		<region><![CDATA[PA]]></region>
+		<country><![CDATA[US]]></country>
+		<!-- integration configuration -->
+		<facebook-apply-data>
+			<application-callback-url><![CDATA[https://click.appcast.io/track/22uggel?cs=gqv&exch=5t&bid=TEz0xVerpiuhxLt0LS4mUA==]]></application-callback-url>
+		</facebook-apply-data>
+	</job>
+	<job>
+		<!-- basic info -->
+		<title><![CDATA[Health Insurance License Trainee]]></title>
+		<date><![CDATA[2019-07-06]]></date>
+		<id><![CDATA[8143_R0002538]]></id>
+		<photo_url><![CDATA[https://clickcast2-static.s3.amazonaws.com/uploads/employer/logo/8143/C3_Everise-Co__2_.png]]></photo_url>
+		<description><![CDATA[Company Overview
+
+			C3 is a global provider of contact center services for corporations who view customer care as a strong component of their growth and brand development strategies. C3 builds solid partnerships with its clients based on mutually determined business objectives. Our service offerings include; contact center services, web services, data analysis, back office solutions and consulting services. Although C3 is a global organization, the company prides itself on delivering boutique level client service aboard a foundation of operationally and technologically sound practices on par with any of the other leading providers in the industry. Consistency across our centers, regardless of geography, is at the core of our operating philosophy.
+
+			Are you looking to start a new Healthcare career? C3 can help! We are looking for driven candidates to become licensed to sell health insurance. C3 will pay you to get your health insurance licensed AND pay you to use it! Once in training you will earn $16.00/hour base pay plus performance and attendance incentives! Apply now to learn more! One of our dedicated recruiters will reach out to you with details.
+
+			Position Purpose: The Customer Care Representative will provide outstanding service acting as the primary point of contact for customers regarding products and services related to client programs. Associates will provide callers with thorough service that builds relationships, resolves issues and increases overall trust and satisfaction in client’s products and services.
+
+			Job Responsibilities:
+			- Answer inbound calls from individuals who are interested in learning more about our medicare programs.
+			- Actively listen to their needs and develop the best solution to fit their physical, financial and emotional needs.
+			- Educate our members on their options and how these changes can improve their lives and their health.
+			- Maintain the highest level of service by meeting and exceeding quality standards on every call.
+
+			Skill Set:
+			- Ability to connect and empathize with people in such a way that your ultimate desire is to help them find solutions to their struggles.
+			- Ability to actively listen and recognize areas that need further examination, so that you can provide the best possible solution.
+			- Ability to multi-task so that you can access all of the necessary information to provide an accurate and detailed recommendation.
+			- Ability to clearly explain the solution you have customized for the member so that they fully understand their coverage and costs.
+			- Ability to close the sale.  Once you have developed the ultimate solution, that meets all of your member’s needs, finish the call by closing the sale and getting them enrolled.
+
+			Qualifications:
+			- Strong detail orientation and excellent communication/listening skills
+			- Ability to pass all skill assessments including demonstrated experience with Microsoft applications
+			- Ability to pass a drug screen and background check
+			- Bilingual (Spanish/English) skills a plus!
+			- Demonstrated passion for excellence with respect to treating and caring for customers especially senior citizens
+			- Strong decision making and analytical abilities
+			- Schedule flexibility to include weekends, evenings, possible holidays and occasional overtime
+			- Highly developed sense of integrity and commitment to customer satisfaction
+			- Ability to meet or exceed minimum requirements on computerized assessments.
+			- Minimum of 6 months experience in a customer facing work environment. Phone or in person are acceptable.
+			- High school diploma or GED is required.
+			- Authorized to work in the United States.
+
+			If you’ve got the skills to succeed and the motivation to make it happen, we look forward to hearing from you. Become a FAN today, and be on your way to a rewarding career!]]></description>
+		<!-- company info -->
+		<company-name><![CDATA[C3 Customer Contact Channels]]></company-name>
+		<company-id><![CDATA[8143]]></company-id>
+		<company-full-address><![CDATA[Twin Falls, ID, United States]]></company-full-address>
+		<company-url><![CDATA[https://www.c3connect.com/]]></company-url>
+		<!-- location -->
+		<city><![CDATA[Twin Falls]]></city>
+		<region><![CDATA[ID]]></region>
+		<country><![CDATA[US]]></country>
+		<!-- integration configuration -->
+		<facebook-apply-data>
+			<application-callback-url><![CDATA[https://click.appcast.io/track/1zwnvma?cs=gqv&exch=16&bid=TEz0xVerpiuhxLt0LS4mUA==]]></application-callback-url>
+		</facebook-apply-data>
+	</job>
+	<job>
+		<!-- basic info -->
+		<title><![CDATA[Sr. Magento Developer - Universal Music Group]]></title>
+		<date><![CDATA[2019-07-08]]></date>
+		<id><![CDATA[8515_onQiafwp-8caff969c2009b14503c198f33890c68]]></id>
+		<photo-url><![CDATA[https://clickcast2-static.s3.amazonaws.com/uploads/employer/logo/8515/universal-music-group-logo.png]]></photo-url>
+		<description><![CDATA[We are UMG, the Universal Music Group. We are the world’s leading music company. In everything we do, we are committed to artistry, innovation and entrepreneurship. We own and operate a broad array of businesses engaged in recorded music, music publishing, merchandising, and audiovisual content in more than 60 countries. We identify and develop recording artists and songwriters, and we produce, distribute and promote the most critically acclaimed and commercially successful music to delight and entertain fans around the world.
+
+			UMG is looking for a full stack Sr. Magento Developer to build new feature sets and integrations and resolve bugs on our global eCommerce platform. The developer will be responsible for developing modules and interfaces for our global eCommerce stack, standardizing and templatizing where possible, and will troubleshoot code related issues reported with our online stores. This position requires experience and skill in, among other things, understanding, solving, and developing for vastly different client problems/goals using a single set of underlying core technologies.
+
+			Job Functions:
+			- Build and deploy new and cutting-edge features and interfaces for our Magento online stores, including Cart, Order Management, Master Data Management and associated systems & technologies.
+			- Build systems integrations with various other platforms (CRM, AdTech, MarTech, CTI/Call Center Technology). 
+			- Write technical user stories and convert user stories into deliverables.
+			- Provide estimates to the required level of accuracy for stories and tasks.
+			- Test deliverables against a user story’s acceptance tests.
+			- Create technical documentation.
+
+			Job Requirements:
+
+			Skills/Abilities:
+			- Solid understanding of Magento, Shopify and general eCommerce technologies
+			- Strong proficiency in modern design patterns and development languages including PHP, Symphony, JavaScript, HTML, CSS
+			- Strong knowledge of APIs, webhooks, and general data transfer approaches
+			- Ability to identify areas that can be streamlined or automated.
+			- Ability to write unit tests when implementing user stories and design and develop code for testability.
+			- Solid grounding with common design patterns and development best practices.
+			- Ability to multi-task, problem solve, and execute tasks with accuracy in a high-pressure, fast-paced environment.
+			- Customer-first mentality with ability to empathize and create customer loyalty
+			- Strong interpersonal skills with the ability to perform effectively as member of a team, as well as work independently.
+			- Capable of effectively working and communicating with non-technical internal stakeholders and highly skilled technical development teams in an agile manner.
+			- Strong drive to continue improving skills and to stay on the cutting edge of web technology.
+			- Capable of learning new technologies and platforms quickly and able to apply them to solve complex problems.
+
+			Experience:
+			- 5-7 years of experience working on the Magento 1 & 2 platforms, Shopify and other platform experience
+			- Knowledge of ecommerce technology landscape and associated stacks (shopping cart, API integrations, OMS, IMS, WMS, credit card processing, tax engine, digital distribution etc.)
+
+			Experienced in:
+			- 5+ years Magento 1 & 2 backend and frontend development with a focus on backend, Magento Entrprise experience a plus
+			- Magento module development and contributor (Magento Certification preferred)
+			- Modern JavaScript frameworks such as Node and React
+			- PHP, JavaScript, jQuery, SQL/MySQL and Linux/Apache
+			- APIs, web services (JSON, REST, SOAP) and third-party libraries
+			- Data applications using AJAX/JSONP with JSON/XML/HTML content
+			- Authentication and authorization technologies a plus: SAML, OAuth, OpenID
+
+			Bonus Skills:
+			- Knowledge of AWS design and infrastructure
+			- Modern HTML5 and CSS Design Techniques – including responsive design and targeting different devices
+			- Experience developing mobile applications
+			- 2–3 years in an agile environment (Scrum and/or Kanban)
+			- Experience with version control systems (Bitbucket/GitHub)
+			- Experience working within an Agile team
+			- Experience with a continuous integration environment
+
+			Education:
+			- Bachelor’s in Computer Science, related field, or equivalent demonstrable experience
+
+			Universal Music Group is an Equal Opportunity Employer.
+
+			Disclaimer: This job description only provides an overview of job responsibilities that are subject to change.]]></description>
+		<!-- company info -->
+		<company-name><![CDATA[Universal Music Group]]></company-name>
+		<company-id><![CDATA[8515]]></company-id>
+		<company-full-address><![CDATA[Santa Monica, CA, United States]]></company-full-address>
+		<company-url><![CDATA[https://www.universalmusic.com/]]></company-url>
+		<!-- location -->
+		<city><![CDATA[Santa Monica]]></city>
+		<region><![CDATA[CA]]></region>
+		<country><![CDATA[US]]></country>
+		<!-- integration configuration -->
+		<facebook-apply-data>
+			<application-callback-url><![CDATA[https://click.appcast.io/track/22r44wi?cs=gqv&exch=16&bid=TEz0xVerpiuhxLt0LS4mUA==]]></application-callback-url>
+		</facebook-apply-data>
+	</job>
+	<job>
+		<!-- basic info -->
+		<title><![CDATA[Universal Music Group - Sr. Magento Developer]]></title>
+		<date><![CDATA[2019-07-08]]></date>
+		<id><![CDATA[8515_onQiafwp-93ac254e131dcfc5face696b1c6b2afb]]></id>
+		<photo-url><![CDATA[https://clickcast2-static.s3.amazonaws.com/uploads/employer/logo/8515/universal-music-group-logo.png]]></photo-url>
+		<description><![CDATA[We are UMG, the Universal Music Group. We are the world’s leading music company. In everything we do, we are committed to artistry, innovation and entrepreneurship. We own and operate a broad array of businesses engaged in recorded music, music publishing, merchandising, and audiovisual content in more than 60 countries. We identify and develop recording artists and songwriters, and we produce, distribute and promote the most critically acclaimed and commercially successful music to delight and entertain fans around the world.
+
+			UMG is looking for a full stack Sr. Magento Developer to build new feature sets and integrations and resolve bugs on our global eCommerce platform. The developer will be responsible for developing modules and interfaces for our global eCommerce stack, standardizing and templatizing where possible, and will troubleshoot code related issues reported with our online stores. This position requires experience and skill in, among other things, understanding, solving, and developing for vastly different client problems/goals using a single set of underlying core technologies.
+
+			Job Functions:
+			- Build and deploy new and cutting-edge features and interfaces for our Magento online stores, including Cart, Order Management, Master Data Management and associated systems & technologies.
+			- Build systems integrations with various other platforms (CRM, AdTech, MarTech, CTI/Call Center Technology). 
+			- Write technical user stories and convert user stories into deliverables.
+			- Provide estimates to the required level of accuracy for stories and tasks.
+			- Test deliverables against a user story’s acceptance tests.
+			- Create technical documentation.
+
+			Job Requirements:
+
+			Skills/Abilities:
+			- Solid understanding of Magento, Shopify and general eCommerce technologies
+			- Strong proficiency in modern design patterns and development languages including PHP, Symphony, JavaScript, HTML, CSS
+			- Strong knowledge of APIs, webhooks, and general data transfer approaches
+			- Ability to identify areas that can be streamlined or automated.
+			- Ability to write unit tests when implementing user stories and design and develop code for testability.
+			- Solid grounding with common design patterns and development best practices.
+			- Ability to multi-task, problem solve, and execute tasks with accuracy in a high-pressure, fast-paced environment.
+			- Customer-first mentality with ability to empathize and create customer loyalty
+			- Strong interpersonal skills with the ability to perform effectively as member of a team, as well as work independently.
+			- Capable of effectively working and communicating with non-technical internal stakeholders and highly skilled technical development teams in an agile manner.
+			- Strong drive to continue improving skills and to stay on the cutting edge of web technology.
+			- Capable of learning new technologies and platforms quickly and able to apply them to solve complex problems.
+
+			Experience:
+			- 5-7 years of experience working on the Magento 1 & 2 platforms, Shopify and other platform experience
+			- Knowledge of ecommerce technology landscape and associated stacks (shopping cart, API integrations, OMS, IMS, WMS, credit card processing, tax engine, digital distribution etc.)
+
+			Experienced in:
+			- 5+ years Magento 1 & 2 backend and frontend development with a focus on backend, Magento Entrprise experience a plus
+			- Magento module development and contributor (Magento Certification preferred)
+			- Modern JavaScript frameworks such as Node and React
+			- PHP, JavaScript, jQuery, SQL/MySQL and Linux/Apache
+			- APIs, web services (JSON, REST, SOAP) and third-party libraries
+			- Data applications using AJAX/JSONP with JSON/XML/HTML content
+			- Authentication and authorization technologies a plus: SAML, OAuth, OpenID
+
+			Bonus Skills:
+			- Knowledge of AWS design and infrastructure
+			- Modern HTML5 and CSS Design Techniques – including responsive design and targeting different devices
+			- Experience developing mobile applications
+			- 2–3 years in an agile environment (Scrum and/or Kanban)
+			- Experience with version control systems (Bitbucket/GitHub)
+			- Experience working within an Agile team
+			- Experience with a continuous integration environment
+
+			Education:
+			- Bachelor’s in Computer Science, related field, or equivalent demonstrable experience
+
+			Universal Music Group is an Equal Opportunity Employer.
+
+			Disclaimer: This job description only provides an overview of job responsibilities that are subject to change.]]></description>
+		<!-- company info -->
+		<company-name><![CDATA[Universal Music Group]]></company-name>
+		<company-id><![CDATA[8515]]></company-id>
+		<company-full-address><![CDATA[Santa Monica, CA, United States]]></company-full-address>
+		<company-url><![CDATA[https://www.universalmusic.com/]]></company-url>
+		<!-- location -->
+		<city><![CDATA[Santa Monica]]></city>
+		<region><![CDATA[CA]]></region>
+		<country><![CDATA[US]]></country>
+		<!-- integration configuration -->
+		<facebook-apply-data>
+			<application-callback-url><![CDATA[https://click.appcast.io/track/22r44wh?cs=gqv&exch=16&bid=TEz0xVerpiuhxLt0LS4mUA==]]></application-callback-url>
+		</facebook-apply-data>
+	</job>
+	<job>
+		<!-- basic info -->
+		<title><![CDATA[Sr. Magento Developer]]></title>
+		<date><![CDATA[2019-07-08]]></date>
+		<id><![CDATA[8515_onQiafwp]]></id>
+		<photo-url><![CDATA[https://clickcast2-static.s3.amazonaws.com/uploads/employer/logo/8515/universal-music-group-logo.png]]></photo-url>
+		<description><![CDATA[We are UMG, the Universal Music Group. We are the world’s leading music company. In everything we do, we are committed to artistry, innovation and entrepreneurship. We own and operate a broad array of businesses engaged in recorded music, music publishing, merchandising, and audiovisual content in more than 60 countries. We identify and develop recording artists and songwriters, and we produce, distribute and promote the most critically acclaimed and commercially successful music to delight and entertain fans around the world.
+
+			UMG is looking for a full stack Sr. Magento Developer to build new feature sets and integrations and resolve bugs on our global eCommerce platform. The developer will be responsible for developing modules and interfaces for our global eCommerce stack, standardizing and templatizing where possible, and will troubleshoot code related issues reported with our online stores. This position requires experience and skill in, among other things, understanding, solving, and developing for vastly different client problems/goals using a single set of underlying core technologies.
+
+			Job Functions:
+			- Build and deploy new and cutting-edge features and interfaces for our Magento online stores, including Cart, Order Management, Master Data Management and associated systems & technologies.
+			- Build systems integrations with various other platforms (CRM, AdTech, MarTech, CTI/Call Center Technology). 
+			- Write technical user stories and convert user stories into deliverables.
+			- Provide estimates to the required level of accuracy for stories and tasks.
+			- Test deliverables against a user story’s acceptance tests.
+			- Create technical documentation.
+
+			Job Requirements:
+
+			Skills/Abilities:
+			- Solid understanding of Magento, Shopify and general eCommerce technologies
+			- Strong proficiency in modern design patterns and development languages including PHP, Symphony, JavaScript, HTML, CSS
+			- Strong knowledge of APIs, webhooks, and general data transfer approaches
+			- Ability to identify areas that can be streamlined or automated.
+			- Ability to write unit tests when implementing user stories and design and develop code for testability.
+			- Solid grounding with common design patterns and development best practices.
+			- Ability to multi-task, problem solve, and execute tasks with accuracy in a high-pressure, fast-paced environment.
+			- Customer-first mentality with ability to empathize and create customer loyalty
+			- Strong interpersonal skills with the ability to perform effectively as member of a team, as well as work independently.
+			- Capable of effectively working and communicating with non-technical internal stakeholders and highly skilled technical development teams in an agile manner.
+			- Strong drive to continue improving skills and to stay on the cutting edge of web technology.
+			- Capable of learning new technologies and platforms quickly and able to apply them to solve complex problems.
+
+			Experience:
+			- 5-7 years of experience working on the Magento 1 & 2 platforms, Shopify and other platform experience
+			- Knowledge of ecommerce technology landscape and associated stacks (shopping cart, API integrations, OMS, IMS, WMS, credit card processing, tax engine, digital distribution etc.)
+
+			Experienced in:
+			- 5+ years Magento 1 & 2 backend and frontend development with a focus on backend, Magento Entrprise experience a plus
+			- Magento module development and contributor (Magento Certification preferred)
+			- Modern JavaScript frameworks such as Node and React
+			- PHP, JavaScript, jQuery, SQL/MySQL and Linux/Apache
+			- APIs, web services (JSON, REST, SOAP) and third-party libraries
+			- Data applications using AJAX/JSONP with JSON/XML/HTML content
+			- Authentication and authorization technologies a plus: SAML, OAuth, OpenID
+
+			Bonus Skills:
+			- Knowledge of AWS design and infrastructure
+			- Modern HTML5 and CSS Design Techniques – including responsive design and targeting different devices
+			- Experience developing mobile applications
+			- 2–3 years in an agile environment (Scrum and/or Kanban)
+			- Experience with version control systems (Bitbucket/GitHub)
+			- Experience working within an Agile team
+			- Experience with a continuous integration environment
+
+			Education:
+			- Bachelor’s in Computer Science, related field, or equivalent demonstrable experience
+
+			Universal Music Group is an Equal Opportunity Employer.
+
+			Disclaimer: This job description only provides an overview of job responsibilities that are subject to change.]]></description>
+		<!-- company info -->
+		<company-name><![CDATA[Universal Music Group]]></company-name>
+		<company-id><![CDATA[8515]]></company-id>
+		<company-full-address><![CDATA[Santa Monica, CA, United States]]></company-full-address>
+		<company-url><![CDATA[https://www.universalmusic.com/]]></company-url>
+		<!-- location -->
+		<city><![CDATA[Santa Monica]]></city>
+		<region><![CDATA[CA]]></region>
+		<country><![CDATA[US]]></country>
+		<!-- integration configuration -->
+		<facebook-apply-data>
+			<application-callback-url><![CDATA[https://click.appcast.io/track/20r6hcm?cs=gqv&exch=16&bid=TEz0xVerpiuhxLt0LS4mUA==]]></application-callback-url>
+		</facebook-apply-data>
+	</job>
+	<job>
+		<!-- basic info -->
+		<title><![CDATA[Sr. Developer - Magento]]></title>
+		<date><![CDATA[2019-07-08]]></date>
+		<id><![CDATA[8515_onQiafwp-5673ab8bc282681b538cb3f9da3cbd57]]></id>
+		<photo-url><![CDATA[https://clickcast2-static.s3.amazonaws.com/uploads/employer/logo/8515/universal-music-group-logo.png]]></photo-url>
+		<description><![CDATA[We are UMG, the Universal Music Group. We are the world’s leading music company. In everything we do, we are committed to artistry, innovation and entrepreneurship. We own and operate a broad array of businesses engaged in recorded music, music publishing, merchandising, and audiovisual content in more than 60 countries. We identify and develop recording artists and songwriters, and we produce, distribute and promote the most critically acclaimed and commercially successful music to delight and entertain fans around the world.
+
+			UMG is looking for a full stack Sr. Magento Developer to build new feature sets and integrations and resolve bugs on our global eCommerce platform. The developer will be responsible for developing modules and interfaces for our global eCommerce stack, standardizing and templatizing where possible, and will troubleshoot code related issues reported with our online stores. This position requires experience and skill in, among other things, understanding, solving, and developing for vastly different client problems/goals using a single set of underlying core technologies.
+
+			Job Functions:
+			- Build and deploy new and cutting-edge features and interfaces for our Magento online stores, including Cart, Order Management, Master Data Management and associated systems & technologies.
+			- Build systems integrations with various other platforms (CRM, AdTech, MarTech, CTI/Call Center Technology). 
+			- Write technical user stories and convert user stories into deliverables.
+			- Provide estimates to the required level of accuracy for stories and tasks.
+			- Test deliverables against a user story’s acceptance tests.
+			- Create technical documentation.
+
+			Job Requirements:
+
+			Skills/Abilities:
+			- Solid understanding of Magento, Shopify and general eCommerce technologies
+			- Strong proficiency in modern design patterns and development languages including PHP, Symphony, JavaScript, HTML, CSS
+			- Strong knowledge of APIs, webhooks, and general data transfer approaches
+			- Ability to identify areas that can be streamlined or automated.
+			- Ability to write unit tests when implementing user stories and design and develop code for testability.
+			- Solid grounding with common design patterns and development best practices.
+			- Ability to multi-task, problem solve, and execute tasks with accuracy in a high-pressure, fast-paced environment.
+			- Customer-first mentality with ability to empathize and create customer loyalty
+			- Strong interpersonal skills with the ability to perform effectively as member of a team, as well as work independently.
+			- Capable of effectively working and communicating with non-technical internal stakeholders and highly skilled technical development teams in an agile manner.
+			- Strong drive to continue improving skills and to stay on the cutting edge of web technology.
+			- Capable of learning new technologies and platforms quickly and able to apply them to solve complex problems.
+
+			Experience:
+			- 5-7 years of experience working on the Magento 1 & 2 platforms, Shopify and other platform experience
+			- Knowledge of ecommerce technology landscape and associated stacks (shopping cart, API integrations, OMS, IMS, WMS, credit card processing, tax engine, digital distribution etc.)
+
+			Experienced in:
+			- 5+ years Magento 1 & 2 backend and frontend development with a focus on backend, Magento Entrprise experience a plus
+			- Magento module development and contributor (Magento Certification preferred)
+			- Modern JavaScript frameworks such as Node and React
+			- PHP, JavaScript, jQuery, SQL/MySQL and Linux/Apache
+			- APIs, web services (JSON, REST, SOAP) and third-party libraries
+			- Data applications using AJAX/JSONP with JSON/XML/HTML content
+			- Authentication and authorization technologies a plus: SAML, OAuth, OpenID
+
+			Bonus Skills:
+			- Knowledge of AWS design and infrastructure
+			- Modern HTML5 and CSS Design Techniques – including responsive design and targeting different devices
+			- Experience developing mobile applications
+			- 2–3 years in an agile environment (Scrum and/or Kanban)
+			- Experience with version control systems (Bitbucket/GitHub)
+			- Experience working within an Agile team
+			- Experience with a continuous integration environment
+
+			Education:
+			- Bachelor’s in Computer Science, related field, or equivalent demonstrable experience
+
+			Universal Music Group is an Equal Opportunity Employer.
+
+			Disclaimer: This job description only provides an overview of job responsibilities that are subject to change.]]></description>
+		<!-- company info -->
+		<company-name><![CDATA[Universal Music Group]]></company-name>
+		<company-id><![CDATA[8515]]></company-id>
+		<company-full-address><![CDATA[Santa Monica, CA, United States]]></company-full-address>
+		<company-url><![CDATA[https://www.universalmusic.com/]]></company-url>
+		<!-- location -->
+		<city><![CDATA[Santa Monica]]></city>
+		<region><![CDATA[CA]]></region>
+		<country><![CDATA[US]]></country>
+		<!-- integration configuration -->
+		<facebook-apply-data>
+			<application-callback-url><![CDATA[https://click.appcast.io/track/22r44wg?cs=gqv&exch=16&bid=TEz0xVerpiuhxLt0LS4mUA==]]></application-callback-url>
+		</facebook-apply-data>
+	</job>
+</source>
