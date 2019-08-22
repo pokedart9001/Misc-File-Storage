@@ -57,7 +57,7 @@
 		<postal-code><![CDATA[94087]]></postal-code>
 		<!-- integration configuration -->
 		<facebook-apply-data>
-			<application-callback-url><![CDATA[https://click.appcast.io/track/sf8ir1?cs=gqv&amp;exch=3a&amp;bid=TEz0xVerpiuhxLt0LS4mUA==]]></application-callback-url>
+			<application-callback-url><![CDATA[https://jobs.appcast.io/facebook_apply_callback]]></application-callback-url>
 		</facebook-apply-data>
 	</job>
 	<job>
@@ -127,7 +127,7 @@
 		<postal-code><![CDATA[94087]]></postal-code>
 		<!-- integration configuration -->
 		<facebook-apply-data>
-			<application-callback-url><![CDATA[https://click.appcast.io/track/sf8fp2?cs=gqv&exch=3a&bid=TEz0xVerpiuhxLt0LS4mUA==]]></application-callback-url>
+			<application-callback-url><![CDATA[https://jobs.appcast.io/facebook_apply_callback]]></application-callback-url>
 		</facebook-apply-data>
 	</job>
 	<job>
@@ -180,7 +180,7 @@
 		<postal-code><![CDATA[94087]]></postal-code>
 		<!-- integration configuration -->
 		<facebook-apply-data>
-			<application-callback-url><![CDATA[https://click.appcast.io/track/sf8gw2?cs=gqv&exch=3a&bid=TEz0xVerpiuhxLt0LS4mUA==]]></application-callback-url>
+			<application-callback-url><![CDATA[https://jobs.appcast.io/facebook_apply_callback]]></application-callback-url>
 		</facebook-apply-data>
 	</job>
 	<job>
@@ -215,7 +215,7 @@
 		<country><![CDATA[US]]></country>
 		<!-- integration configuration -->
 		<facebook-apply-data>
-			<application-callback-url><![CDATA[https://click.appcast.io/track/1ycd2cb?cs=gqv&exch=5t&bid=TEz0xVerpiuhxLt0LS4mUA==]]></application-callback-url>
+			<application-callback-url><![CDATA[https://jobs.appcast.io/facebook_apply_callback]]></application-callback-url>
 		</facebook-apply-data>
 	</job>
 	<job>
@@ -250,7 +250,7 @@
 		<country><![CDATA[US]]></country>
 		<!-- integration configuration -->
 		<facebook-apply-data>
-			<application-callback-url><![CDATA[https://click.appcast.io/track/1ycd2ca?cs=gqv&exch=5t&bid=TEz0xVerpiuhxLt0LS4mUA==]]></application-callback-url>
+			<application-callback-url><![CDATA[https://jobs.appcast.io/facebook_apply_callback]]></application-callback-url>
 		</facebook-apply-data>
 	</job>
 	<job>
@@ -285,7 +285,7 @@
 		<country><![CDATA[US]]></country>
 		<!-- integration configuration -->
 		<facebook-apply-data>
-			<application-callback-url><![CDATA[https://click.appcast.io/track/1ycd2c9?cs=gqv&exch=5t&bid=TEz0xVerpiuhxLt0LS4mUA==]]></application-callback-url>
+			<application-callback-url><![CDATA[https://jobs.appcast.io/facebook_apply_callback]]></application-callback-url>
 		</facebook-apply-data>
 	</job>
 	<job>
@@ -320,7 +320,7 @@
 		<country><![CDATA[US]]></country>
 		<!-- integration configuration -->
 		<facebook-apply-data>
-			<application-callback-url><![CDATA[https://click.appcast.io/track/223v775?cs=gqv&exch=5t&bid=TEz0xVerpiuhxLt0LS4mUA==]]></application-callback-url>
+			<application-callback-url><![CDATA[https://jobs.appcast.io/facebook_apply_callback]]></application-callback-url>
 		</facebook-apply-data>
 	</job>
 	<job>
@@ -355,7 +355,7 @@
 		<country><![CDATA[US]]></country>
 		<!-- integration configuration -->
 		<facebook-apply-data>
-			<application-callback-url><![CDATA[https://click.appcast.io/track/223v774?cs=gqv&exch=5t&bid=TEz0xVerpiuhxLt0LS4mUA==]]></application-callback-url>
+			<application-callback-url><![CDATA[https://jobs.appcast.io/facebook_apply_callback]]></application-callback-url>
 		</facebook-apply-data>
 	</job>
 	<job>
@@ -390,7 +390,7 @@
 		<country><![CDATA[US]]></country>
 		<!-- integration configuration -->
 		<facebook-apply-data>
-			<application-callback-url><![CDATA[https://click.appcast.io/track/224djq0?cs=gqv&exch=5t&bid=TEz0xVerpiuhxLt0LS4mUA==]]></application-callback-url>
+			<application-callback-url><![CDATA[https://jobs.appcast.io/facebook_apply_callback]]></application-callback-url>
 		</facebook-apply-data>
 	</job>
 	<job>
@@ -425,7 +425,7 @@
 		<country><![CDATA[US]]></country>
 		<!-- integration configuration -->
 		<facebook-apply-data>
-			<application-callback-url><![CDATA[https://click.appcast.io/track/22uggem?cs=gqv&exch=5t&bid=TEz0xVerpiuhxLt0LS4mUA==]]></application-callback-url>
+			<application-callback-url><![CDATA[https://jobs.appcast.io/facebook_apply_callback]]></application-callback-url>
 		</facebook-apply-data>
 	</job>
 	<job>
@@ -460,7 +460,7 @@
 		<country><![CDATA[US]]></country>
 		<!-- integration configuration -->
 		<facebook-apply-data>
-			<application-callback-url><![CDATA[https://click.appcast.io/track/22uggel?cs=gqv&exch=5t&bid=TEz0xVerpiuhxLt0LS4mUA==]]></application-callback-url>
+			<application-callback-url><![CDATA[https://jobs.appcast.io/facebook_apply_callback]]></application-callback-url>
 		</facebook-apply-data>
 	</job>
 	<job>
@@ -516,7 +516,7 @@
 		<country><![CDATA[US]]></country>
 		<!-- integration configuration -->
 		<facebook-apply-data>
-			<application-callback-url><![CDATA[https://click.appcast.io/track/1zwnvma?cs=gqv&exch=16&bid=TEz0xVerpiuhxLt0LS4mUA==]]></application-callback-url>
+			<application-callback-url><![CDATA[https://jobs.appcast.io/facebook_apply_callback]]></application-callback-url>
 		</facebook-apply-data>
 	</job>
 	<job>
@@ -592,7 +592,7 @@
 		<country><![CDATA[US]]></country>
 		<!-- integration configuration -->
 		<facebook-apply-data>
-			<application-callback-url><![CDATA[https://click.appcast.io/track/22r44wi?cs=gqv&exch=16&bid=TEz0xVerpiuhxLt0LS4mUA==]]></application-callback-url>
+			<application-callback-url><![CDATA[https://jobs.appcast.io/facebook_apply_callback]]></application-callback-url>
 		</facebook-apply-data>
 	</job>
 	<job>
@@ -668,7 +668,7 @@
 		<country><![CDATA[US]]></country>
 		<!-- integration configuration -->
 		<facebook-apply-data>
-			<application-callback-url><![CDATA[https://click.appcast.io/track/22r44wh?cs=gqv&exch=16&bid=TEz0xVerpiuhxLt0LS4mUA==]]></application-callback-url>
+			<application-callback-url><![CDATA[https://jobs.appcast.io/facebook_apply_callback]]></application-callback-url>
 		</facebook-apply-data>
 	</job>
 	<job>
@@ -744,7 +744,7 @@
 		<country><![CDATA[US]]></country>
 		<!-- integration configuration -->
 		<facebook-apply-data>
-			<application-callback-url><![CDATA[https://click.appcast.io/track/20r6hcm?cs=gqv&exch=16&bid=TEz0xVerpiuhxLt0LS4mUA==]]></application-callback-url>
+			<application-callback-url><![CDATA[https://jobs.appcast.io/facebook_apply_callback]]></application-callback-url>
 		</facebook-apply-data>
 	</job>
 	<job>
@@ -820,7 +820,7 @@
 		<country><![CDATA[US]]></country>
 		<!-- integration configuration -->
 		<facebook-apply-data>
-			<application-callback-url><![CDATA[https://click.appcast.io/track/22r44wg?cs=gqv&exch=16&bid=TEz0xVerpiuhxLt0LS4mUA==]]></application-callback-url>
+			<application-callback-url><![CDATA[https://jobs.appcast.io/facebook_apply_callback]]></application-callback-url>
 		</facebook-apply-data>
 	</job>
 </source>
